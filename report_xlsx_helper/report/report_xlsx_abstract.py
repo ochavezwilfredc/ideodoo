@@ -114,7 +114,7 @@ class ReportXlsxAbstract(models.AbstractModel):
         theader_blue = dict(theader, bg_color=bg_blue)
 
         # format for worksheet title
-        self.format_ws_title = workbook.add_format({"bold": True, "font_size": 14})
+        self.format_ws_title = workbook.add_format({"bold": True, "font_size": 12})
 
         # no border formats
         self.format_left = workbook.add_format({"align": "left"})
