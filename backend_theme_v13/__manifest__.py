@@ -3,7 +3,7 @@
 # License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl.html).
 
 {
-    "name": "Openworx Material Backend Theme V13",
+    "name": "Openworx Material Backend Theme V13-test",
     "summary": "Openworx Material Backend Theme V13",
     "version": "13.0.0.1",
     "category": "Theme/Backend",
